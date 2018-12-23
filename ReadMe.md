@@ -11,8 +11,6 @@ Scrapping data of restaurant reviews (restaurant - review - star rating) I perfo
 
 And then compared them with the website's current rating method, using the average star rating.
 
-Performing lift and sentiment analysis regarding the identified issues for both candidates we concluded the following:
-
 All the steps of the process are thoroughly presented in the project's report.
 
 ## Tools used
