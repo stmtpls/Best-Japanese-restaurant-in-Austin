@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-Scrapping data of restaurant reviews (restaurant - review - star rating) I performed sentiment analysis and used cosine similarity to identify the top three restaurants in the Austin, TX area in terms of:
+Scrapping data of restaurant reviews (restaurant - review - star rating) I performed sentiment analysis and used cosine similarity to identify the top three Japanese restaurants in the Austin, TX area in terms of:
 
 - Service
 - Food
@@ -25,7 +25,7 @@ All the steps of the process are thoroughly presented in the project's report.
 
 ## Key take-away
 
-- If you like Japanese food and live in Austin you should try: 
+If you like Japanese food and live in Austin you should try: 
 
 1. Haru Sushi - formerly known Hanabi
 2. Sushi Junai 2
@@ -42,6 +42,6 @@ All the steps of the process are thoroughly presented in the project's report.
 - The list of 200 reviews with the highest cosine similarity includes no review of the "top three based on ratings" restaurants, which indicates that while those restaurants get positive feedback same is not strongly correlated to the four identifed aspects and as a result they do not present a good value proposition.
 
 
-## Yelp suggestions - Areas of improvement
+## Suggestions & Areas of improvement
 
-The website's recommendation system would be much improved incorporating rastaurant type specific aspects and features to the search engine (e.g. Service, Food, Price, Location) helping users find exactly what they are looking for.
+The website's recommendation system would be much improved incorporating restaurant-type specific aspects and features to the search engine (e.g. Service, Food, Price, Location) helping users find exactly what they are looking for instead of relying on generic star ratings.
